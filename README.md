@@ -1,62 +1,42 @@
-
-<p align="center">
-  <img src = "https://github.com/timkim0713/Cardian/blob/master/images/autocryptXcardinal.jpeg" width="auto">
-</p>
-
 # Problem Statement
 The problem started when I used an online "image merge" platform. The first three image upload was for free, but then, it charged me to pay 20 cents per image. From this problem, I decided to create my own image merging program that is not commercially used. None of advertisement is included in this program. With a click of download, you can easily merge infinite number of images.
 
-# 🔥 Milestone 1 
+# 🔥 HOW TO USE
 
-  - Overall Scatches
+- Overall Scatches of HOW TO USE
+### 1. Run program.
+<img src = "https://github.com/rxYoungho/merge-images/blob/main/img/4.png?raw=true">   
+
+### 2. Click "Add Files" to upload images.
+<img src = "https://github.com/rxYoungho/merge-images/blob/main/img/3.png?raw=true"> 
+
+### 3. Click "Path" to setup the directory to store result image and select any options you need.
+<img src = "https://github.com/rxYoungho/merge-images/blob/main/img/2.png?raw=true">   
+
+### 4. Click "Merge" to merge images it will return an image to the path you selected.
+<img src = "https://github.com/rxYoungho/merge-images/blob/main/img/1.png?raw=true">  
+
+### 5. Result Image
+<img src = "https://github.com/rxYoungho/merge-images/blob/main/img/5.png?raw=true">   
 
 
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-1.jpeg" width="150px">    <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-2.jpeg" width="150px">    <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-3.jpeg" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-4.png" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-5.jpeg" width="150px">   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/KakaoTalk_Photo_2021-05-23-13-57-05-6.png" width="150px">
-
-# 🔥 Milestone 2
-
-  - Prototyping and Problem Solution
-```
-  ZeroClass provides the Emergency Assistant Matching Service, the Cardian, based on AutoCrypt’s FMS Data 
-  and V2X Technologies. Cardian connects the vehicle and pedestrian who needs emergency help through vehicle 
-  data collected with VMS and a call reported with mobile application.
-```
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/스크린샷 2021-05-23 오후 2.22.20.png" width="auto">
-
-# 🔥 Milestone 3
-  - Defining Key Features and Application Build (IOS & Android)
-  
-<img src = "https://github.com/timkim0713/Cardian/blob/master/images/app_features.jpeg" width="auto">
-
-# 🔥 Milestone 4
-  - Video Creation & App Demo
-```
-https://www.youtube.com/watch?v=u4-eqjqWVGo
-```
 # Application Installation
 ```
 Used Technology
 
-Android / iOS built using React Native 0.64
-Expected to use FMS and V2X Technology from AutoCrypt.
+MAC OS/ Program built using Python 3.9 version
+Windows are not fully tested, but is possible.
 
 
 Installation
 
-yarn install
+pip3 install tkinter
+pip3 install PIL
 
-@ANDROID
-$ yarn start
-$ yarn android
-
-@IOS
-$ cd ios
-$ pod install
-$ yarn run ios
 ```
 # Operating System
 ```
-All of the codes were written in the environment of Windows 10 and Mac OS.
+All of the codes were written in the environment of Mac OS.
 ```
 
 # Bug Tracking
