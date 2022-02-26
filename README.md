@@ -3,45 +3,8 @@
   <img src = "https://github.com/timkim0713/Cardian/blob/master/images/autocryptXcardinal.jpeg" width="auto">
 </p>
 
-# JUNCTION X SEOUL 2021
-```
-Team Name: Zero Class
-
-Team Members: 
-  - 🤰 Kwangmin Kim [Project Manager]
-  - 🐳 Seojin Han [Entrepreneur]
-  - 🦄 Nahyun An [Designer]
-  - 🔥 Daekyung Kim [Developer]
-  - 🌎 Youngho Kim [Developer]
-  
-Project Name: Cardian
-
-Track Company: AutoCrypt
-```
-
 # Problem Statement
-```
-  Team ZeroClass presents FMS based Emergency Assistant Matching Service, CARDIAN. Our team defines 
-"Mobility Barrier" as Disconnection between vehicles and pedestrians who are exposed to unpredictable 
-events such as sudden medical problems or potential crimes.
-
-  Specifically, we have found out that the majority of women are feeling threatened at night out in the 
-street, which causes psychological anxiety. In another case, there are emergency happenings resolved 
-by people nearby. Our question is, How can we solve these problems more effiectively?
-
-  At this time, there are existing mobile applications that help those in danger, such as "Smart Emergency
-Alert" app. However, this app is only limited to alert their guardians.
- 
-  As an ideal solution, Our Team implemented AutoCrypt's FMS Data to locate the vehicles' locations and V2X
-Technology in order to connect the vehicle and the pedstrian. Our service, CARDIAN, is an FMS based Emergency
-Assistant Matching mobile application that makes V2P connection. This way, CARDIAN recues emergency patients,
-reduces psychological anxieties, and further improves civic consciousness in our society.
-
-  Our service usage is quite simple. Our users can request a V2P connectivity through holding on a button; 
-Then, The vehicles nearby allocated by FMS, are notified about the situation and the loaction. 
-On the other side, the drivers notified decides whether to accept the request or not.
-Once accepted, they become our Cardian. 
-```
+The problem started when I used an online "image merge" platform. The first three image upload was for free, but then, it charged me to pay 20 cents per image. From this problem, I decided to create my own image merging program that is not commercially used. None of advertisement is included in this program. With a click of download, you can easily merge infinite number of images.
 
 # 🔥 Milestone 1 
 
